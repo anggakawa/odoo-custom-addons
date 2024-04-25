@@ -1,0 +1,3 @@
+[submodule "typeto_confirm_uninstall"]
+	path = typeto_confirm_uninstall
+	url = https://github.com/anggakawa/odoo-type-to-uninstall.git
